@@ -56,18 +56,28 @@ This repository contains practical cybersecurity investigations including:
 
 ---
 
-# 🛡️ SOC Skills Map
+## 🛡️ SOC Skills Breakdown
 
-| SOC Skill / Competency | Evidence in Portfolio |
-|------------------------|----------------------|
-| **SIEM Analysis & Alert Triage** | Day 11 & 18 Case Studies (LetDefend phishing, Brute-force Splunk logs) |
-| **Log Analysis** | Day 10 Log Analysis Notes; Day 18 Regex Field Extraction; Splunk Queries (Day 17) |
-| **Threat Intelligence Enrichment** | Day 12 Threat Intelligence Report (IP, URL, Hash analysis) |
-| **PCAP / Network Traffic Analysis** | Day 13 PCAP Investigation; Malware Compromise Case Study |
-| **Incident Response & Documentation** | Day 11 & 20 Case Studies; Day 18 Incident Report |
-| **Regex & Field Extraction** | Splunk Log Field Extraction (Day 18) |
-| **Dashboarding / Reporting** | Day 19 SOC Dashboards (Login Activity, Failed vs Successful Logins) |
-| **Malware / Phishing Investigation** | Day 20 Case Study; Day 18 Notes (Sysmon Logs – Malware & PowerShell Analysis) |
+### 🔎 Detection & Monitoring
+- SIEM Analysis & Alert Triage (Day 11 & 18 Case Studies)
+- Splunk Log Queries & Regex Field Extraction
+- SOC Dashboard Creation (Login Monitoring)
+
+### 🌐 Network Security Analysis
+- PCAP Investigation (Day 13)
+- Malware Traffic Analysis
+- Suspicious IP & C2 Communication Identification
+
+### 🧠 Threat Intelligence
+- IOC Extraction (IP, URL, Hash)
+- Reputation Analysis & Enrichment
+- MITRE ATT&CK Mapping
+
+### 📄 Incident Response
+- Phishing Investigation
+- Brute-force Detection
+- Malware Execution Chain Documentation
+- Professional Incident Reporting
 
 ---
 
