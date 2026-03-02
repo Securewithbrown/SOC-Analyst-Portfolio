@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 I am an aspiring SOC analyst, with practical hands-on experience investigating
-real-world security incidents including phishing campaigns, brute-force attacks, DDOS attacks, and malware-driven network compromises. I have developed strong capability in SIEM-based alert triage, log and PCAP analysis, and threat intelligence enrichment through structured SOC training labs and case study documentation. My portfoliodemonstrates my ability to analyze security alerts, validate threats using open-source intelligence, and provide clear, professional incident reports that aligns with SOC operational workflows.
+real-world security incidents including phishing campaigns, brute-force attacks, DDOS attacks, and malware-driven network compromises. I have developed strong capability in SIEM-based alert triage, log and PCAP analysis, and threat intelligence enrichment through structured SOC training labs and case study documentation. My portfolio demonstrates my ability to analyze security alerts, validate threats using open-source intelligence, and provide clear, professional incident reports that aligns with SOC operational workflows.
 
 I am actively building technical depth in:
 - Incident Response
