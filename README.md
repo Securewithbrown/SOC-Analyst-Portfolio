@@ -60,7 +60,6 @@ This repository contains practical cybersecurity investigations including:
 
 00-About-Me  
 01-SOC-Skills-Map
-
 02-Case-Studies  
 03-SIEM-Work  
 04-Threat-Intelligence  
