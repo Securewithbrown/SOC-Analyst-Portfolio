@@ -57,14 +57,12 @@ This repository contains practical cybersecurity investigations including:
 ---
 
 ## 🗂️ Repository Structure
-
-00-About-Me  
-01-SOC-Skills-Map  
-02-Case-Studies  
-03-SIEM-Work  
-04-Threat-Intelligence  
-05-PCAP-Analysis  
-06-Training-Notes  
+ 
+01-Case-Studies  
+02-SIEM-Work  
+03-Threat-Intelligence  
+04-PCAP-Analysis  
+05-Training-Notes  
 
 ---
 
