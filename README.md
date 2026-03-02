@@ -56,31 +56,6 @@ This repository contains practical cybersecurity investigations including:
 
 ---
 
-## 🛡️ SOC Skills Breakdown
-
-### 🔎 Detection & Monitoring
-- SIEM Analysis & Alert Triage (Day 11 & 18 Case Studies)
-- Splunk Log Queries & Regex Field Extraction
-- SOC Dashboard Creation (Login Monitoring)
-
-### 🌐 Network Security Analysis
-- PCAP Investigation (Day 13)
-- Malware Traffic Analysis
-- Suspicious IP & C2 Communication Identification
-
-### 🧠 Threat Intelligence
-- IOC Extraction (IP, URL, Hash)
-- Reputation Analysis & Enrichment
-- MITRE ATT&CK Mapping
-
-### 📄 Incident Response
-- Phishing Investigation
-- Brute-force Detection
-- Malware Execution Chain Documentation
-- Professional Incident Reporting
-
----
-
 ## 🗂️ Repository Structure
 
 00-About-Me  
