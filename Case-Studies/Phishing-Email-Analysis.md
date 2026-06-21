@@ -84,4 +84,4 @@ Using the gathered information, the email security module was accessed and the s
 
 ## See Also
 
-- [Threat Intelligence Enrichment Report](../Threat-Intel/Threat-Intelligence-Enrichment-Report.md) — IOC enrichment for this case (IP, URL, hash)
+- [Threat Intelligence Enrichment Report](/SOC-Analyst-Portfolio/Threat-Intel/Threat-Intel-Enrichment-Report.md) — IOC enrichment for this case (IP, URL, hash)
