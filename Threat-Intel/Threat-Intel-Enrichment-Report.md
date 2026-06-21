@@ -17,7 +17,7 @@
 | **Verdict** | Malicious |
 | **Summary** | Active C2 infrastructure associated with Remote Access Trojan (RAT) activity. |
 
-![VirusTotal detection results for IP address](Screenshots\Threat-Intel\IP-address-threat-intelligence.png)
+![VirusTotal detection results for IP address](/Screenshots/Threat-Intel/IP-address-threat-intelligence.png)
 
 ![AbuseIPDB results for IP address](/Screenshots/Threat-Intel/IP-Threat-intel-(AbuselPDB).png)
 
