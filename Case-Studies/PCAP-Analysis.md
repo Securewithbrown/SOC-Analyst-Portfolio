@@ -1,4 +1,4 @@
-# Case Study 3 — SOC Case Study: Malware Network Compromise (BTLO PCAP Analysis)
+# Case Study 3 - SOC Case Study: Malware Network Compromise (BTLO PCAP Analysis)
 
 **Analyst:** Idris Ibrahim Adetola  
 **Date:** 21/01/2026  
@@ -37,9 +37,9 @@ Unusual outbound network traffic was detected from an internal host, suggesting 
 
 ### Domain Reputation Check
 
-![Domain reputation check — VirusTotal / AlienVault](/Screenshots/Case-study/PCAP-Analysis/Domains-reputation-check.png)
+![Domain reputation check - VirusTotal / AlienVault](/Screenshots/Case-study/PCAP-Analysis/Domains-reputation-check.png)
 
-### HTTP GET Filter — Malware Download
+### HTTP GET Filter - Malware Download
 
 ![HTTP GET filter identifying malware payload downloads](/Screenshots/Case-study/PCAP-Analysis/HTTP-GET-filter-to-identify-malware-download.png)
 
@@ -49,7 +49,7 @@ Unusual outbound network traffic was detected from an internal host, suggesting 
 
 ### Malware File Hash
 
-![Malware file hash — VirusTotal results](/Screenshots/Case-study/PCAP-Analysis/Malware_File_Hash.png)
+![Malware file hash - VirusTotal results](/Screenshots/Case-study/PCAP-Analysis/Malware_File_Hash.png)
 
 ---
 

@@ -1,4 +1,4 @@
-# Case Study 2 — Windows Brute-Force Login Attempt
+# Case Study 2 - Windows Brute-Force Login Attempt
 
 **Analyst:** Idris Ibrahim Adetola  
 **Date:** 19-12-2025  

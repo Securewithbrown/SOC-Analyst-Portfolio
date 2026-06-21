@@ -1,4 +1,4 @@
-# Case Study 4 — Multi-Stage Malware Intrusion Investigation Using Sysmon Logs
+# Case Study 4 - Multi-Stage Malware Intrusion Investigation Using Sysmon Logs
 
 **Analyst:** Idris Ibrahim Adetola  
 **Date:** 11-02-2026  

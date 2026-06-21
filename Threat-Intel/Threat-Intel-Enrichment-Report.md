@@ -3,7 +3,7 @@
 **Analyst:** Idris Ibrahim Adetola  
 **Date:** 13-12-2025  
 **Alert Source:** Phishing Email Investigation  
-**Related Case:** [Case Study 1 — Phishing](/Case-Studies/Phishing-Email-Analysis.md)
+**Related Case:** [Case Study 1 - Phishing](/Case-Studies/Phishing-Email-Analysis.md)
 
 ---
 

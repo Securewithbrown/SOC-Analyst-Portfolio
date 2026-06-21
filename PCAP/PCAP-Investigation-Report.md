@@ -1,4 +1,4 @@
-# PCAP Investigation Report — Network Traffic Analysis
+# PCAP Investigation Report - Network Traffic Analysis
 
 **Analyst:** Idris Ibrahim Adetola  
 **Date:** 06-02-2026  
@@ -106,7 +106,7 @@ http.request || tls.handshake.type eq 1
 
 ### Structured POST Requests to Malicious Domains
 
-![Structured POST requests with consistent interval — C2 beaconing](/Screenshots/PCAP-Analysis/Structured-POST-request-to-malicious-domains.png)
+![Structured POST requests with consistent interval - C2 beaconing](/Screenshots/PCAP-Analysis/Structured-POST-request-to-malicious-domains.png)
 
 ---
 

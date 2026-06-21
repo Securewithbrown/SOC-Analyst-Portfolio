@@ -1,4 +1,4 @@
-# Case Study 1 — Incident Detection & Alert Triage (Phishing Email)
+# Case Study 1 - Incident Detection & Alert Triage (Phishing Email)
 
 **Analyst:** Idris Ibrahim Adetola  
 **Date:** 12-12-2025
@@ -84,4 +84,4 @@ Using the gathered information, the email security module was accessed and the s
 
 ## See Also
 
-- [Threat Intelligence Enrichment Report](/Threat-Intel/Threat-Intel-Enrichment-Report.md) — IOC enrichment for this case (IP, URL, hash)
+- [Threat Intelligence Enrichment Report](/Threat-Intel/Threat-Intel-Enrichment-Report.md) - IOC enrichment for this case (IP, URL, hash)
